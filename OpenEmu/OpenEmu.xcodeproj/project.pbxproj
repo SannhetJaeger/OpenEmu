@@ -156,17 +156,6 @@
 		1BFC2725116C1F6700B95689 /* OETaskWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF2D14116855690090F72B /* OETaskWrapper.m */; };
 		1E2F3DBB10DEAB4C0019AA84 /* OEVersionMigrationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E2F3DBA10DEAB4C0019AA84 /* OEVersionMigrationController.m */; };
 		1EA4404911973E9C001D71CA /* OEGameQuickLookDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA4404811973E9C001D71CA /* OEGameQuickLookDocument.m */; };
-		2205C36B196205260013C675 /* _hq2x.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C355196204A60013C675 /* _hq2x.cg */; };
-		2205C36C196205270013C675 /* _hq2x.png in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C356196204A60013C675 /* _hq2x.png */; };
-		2205C36D196205270013C675 /* _hq3x.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C357196204A60013C675 /* _hq3x.cg */; };
-		2205C36E196205270013C675 /* _hq3x.png in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C358196204A60013C675 /* _hq3x.png */; };
-		2205C36F196205270013C675 /* _hq4x.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C359196204A60013C675 /* _hq4x.cg */; };
-		2205C370196205270013C675 /* _hq4x.png in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35A196204A60013C675 /* _hq4x.png */; };
-		2205C371196205270013C675 /* _pass1.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35B196204A60013C675 /* _pass1.cg */; };
-		2205C372196205270013C675 /* _pass2.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35C196204A60013C675 /* _pass2.inc */; };
-		2205C373196205270013C675 /* HQ2x.cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35D196204A60013C675 /* HQ2x.cgp */; };
-		2205C374196205270013C675 /* HQ3x.cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35E196204A60013C675 /* HQ3x.cgp */; };
-		2205C375196205270013C675 /* HQ4x.cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 2205C35F196204A60013C675 /* HQ4x.cgp */; };
 		2205C378196402B50013C675 /* OELUTTexture.m in Sources */ = {isa = PBXBuildFile; fileRef = 2205C377196402B50013C675 /* OELUTTexture.m */; };
 		277CBA3719DE54200059A2C1 /* OpenEmuSystem.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6D120C417112E1300E868A8 /* OpenEmuSystem.framework */; };
 		277CBA4A19DE54A80059A2C1 /* OEIntellivisionSystemResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 277CBA4819DE54A80059A2C1 /* OEIntellivisionSystemResponder.m */; };
@@ -555,17 +544,6 @@
 		87FBC0A41C0798C000AECF5A /* Controller-Preferences.plist in Resources */ = {isa = PBXBuildFile; fileRef = 87FBC0A31C0798C000AECF5A /* Controller-Preferences.plist */; };
 		87FBC0A61C07996B00AECF5A /* Controller-Mappings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 87FBC0A51C07996B00AECF5A /* Controller-Mappings.plist */; };
 		87FBC0A81C07A22700AECF5A /* Atari 8bit.oesystemplugin in CopyFiles */ = {isa = PBXBuildFile; fileRef = 87FBC08E1C0790B400AECF5A /* Atari 8bit.oesystemplugin */; };
-		8C09E4D81867984B0095DB4E /* Beam4.cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4BE1867975E0095DB4E /* Beam4.cgp */; };
-		8C09E4D91867984B0095DB4E /* NTSC (Blargg).cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4BF1867975E0095DB4E /* NTSC (Blargg).cgp */; };
-		8C09E4DA1867984B0095DB4E /* _beam4_1.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C01867975E0095DB4E /* _beam4_1.cg */; };
-		8C09E4DB1867984B0095DB4E /* _beam4_2.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C11867975E0095DB4E /* _beam4_2.cg */; };
-		8C09E4DC1867984B0095DB4E /* _beam4_3.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C21867975E0095DB4E /* _beam4_3.cg */; };
-		8C09E4DD1867984B0095DB4E /* _stock.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C31867975E0095DB4E /* _stock.cg */; };
-		8C09E4E01867984B0095DB4E /* Blinky.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C61867975E0095DB4E /* Blinky.cg */; };
-		8C09E4E11867984B0095DB4E /* CRT.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C71867975E0095DB4E /* CRT.cg */; };
-		8C09E4E21867984B0095DB4E /* LCD3x.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C81867975E0095DB4E /* LCD3x.cg */; };
-		8C09E4E31867984B0095DB4E /* SABR.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4C91867975E0095DB4E /* SABR.cg */; };
-		8C09E4E41867984B0095DB4E /* Scanline.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 8C09E4CA1867975E0095DB4E /* Scanline.cg */; };
 		8C415ECD16B0682B00980DB9 /* OEMultipassShader.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C415ECC16B0682B00980DB9 /* OEMultipassShader.m */; };
 		8C4C808916986697009B8A28 /* OEGLSLShader.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C4C808816986697009B8A28 /* OEGLSLShader.m */; };
 		8C4C808E16986C87009B8A28 /* OECGShader.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C4C808D16986C87009B8A28 /* OECGShader.m */; };
@@ -607,13 +585,6 @@
 		941F5A1D17A786870005D7EA /* Controller-Preferences.plist in Resources */ = {isa = PBXBuildFile; fileRef = 941F5A1717A786870005D7EA /* Controller-Preferences.plist */; };
 		941F5A1E17A786870005D7EA /* Keyboard-Mappings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 941F5A1817A786870005D7EA /* Keyboard-Mappings.plist */; };
 		941F5A1F17A786C00005D7EA /* OpenEmuSystem.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6D120C417112E1300E868A8 /* OpenEmuSystem.framework */; };
-		94380786184E6BB600E2274B /* _ntsc-decode-filter-3phase.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380774184E6AE100E2274B /* _ntsc-decode-filter-3phase.inc */; };
-		94380787184E6BB600E2274B /* _ntsc-gauss-pass.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380775184E6AE100E2274B /* _ntsc-gauss-pass.cg */; };
-		94380788184E6BB600E2274B /* _ntsc-param.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380776184E6AE100E2274B /* _ntsc-param.inc */; };
-		9438078C184E6BB600E2274B /* _ntsc-pass2-3phase.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 9438077A184E6AE100E2274B /* _ntsc-pass2-3phase.cg */; };
-		94380793184E6BB600E2274B /* _ntsc-rgbyuv.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380781184E6AE100E2274B /* _ntsc-rgbyuv.inc */; };
-		94380794184E6BB600E2274B /* _ntsc-stock.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380782184E6AE100E2274B /* _ntsc-stock.cg */; };
-		94380795184E6BB600E2274B /* NTSC.cgp in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94380783184E6AE100E2274B /* NTSC.cgp */; };
 		943815B8165771EB00D55731 /* OEGenesisSystemController.m in Sources */ = {isa = PBXBuildFile; fileRef = 943815B7165771EB00D55731 /* OEGenesisSystemController.m */; };
 		943819C41658DAE800D55731 /* Controller-Mappings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 943819C31658DAE800D55731 /* Controller-Mappings.plist */; };
 		943C80211708A7E400D8D93E /* OEJaguarSystemResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 943C801F1708A7E400D8D93E /* OEJaguarSystemResponder.m */; };
@@ -665,7 +636,6 @@
 		94454ED517861123006C057B /* OpenEmuSystem.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6D120C417112E1300E868A8 /* OpenEmuSystem.framework */; };
 		94454F31178B4ABA006C057B /* Virtual Boy.oesystemplugin in Copy System Plugins to App Plugins */ = {isa = PBXBuildFile; fileRef = 94A224831707541E00098DA0 /* Virtual Boy.oesystemplugin */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		94525EE217A9A778003CB1A2 /* OESega32XSystemController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94525EE117A9A778003CB1A2 /* OESega32XSystemController.m */; };
-		94539B00187D09B100CD1BA9 /* Pixellate.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94539AFD187D096C00CD1BA9 /* Pixellate.cg */; };
 		945E430E1517F59900057D08 /* OEArcadeSystemResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 945E430B1517F59900057D08 /* OEArcadeSystemResponder.m */; };
 		945E43141517F5BC00057D08 /* arcade_library.png in Resources */ = {isa = PBXBuildFile; fileRef = 945E430F1517F5BC00057D08 /* arcade_library.png */; };
 		945E43161517F5BC00057D08 /* controller_arcade_mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 945E43111517F5BC00057D08 /* controller_arcade_mask.png */; };
@@ -834,11 +804,6 @@
 		94EBBD31183F4DB000743756 /* Arcade.oesystemplugin in CopyFiles */ = {isa = PBXBuildFile; fileRef = 945E42FB1517F2B500057D08 /* Arcade.oesystemplugin */; };
 		94FC53881688FF60003C6AFE /* controller_gamegear_mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 94FC53861688FF60003C6AFE /* controller_gamegear_mask.png */; };
 		94FC53891688FF60003C6AFE /* controller_gamegear.png in Resources */ = {isa = PBXBuildFile; fileRef = 94FC53871688FF60003C6AFE /* controller_gamegear.png */; };
-		94FEFA5218A80EF30033A762 /* _ntsc-pass1-composite-3phase.cg in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94FEFA4B18A80ECC0033A762 /* _ntsc-pass1-composite-3phase.cg */; };
-		94FEFA5318A80EF30033A762 /* _ntsc-pass1-encode-demodulate.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94FEFA4C18A80ECC0033A762 /* _ntsc-pass1-encode-demodulate.inc */; };
-		94FEFA5418A80EF30033A762 /* _ntsc-pass1-vertex.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94FEFA4D18A80ECC0033A762 /* _ntsc-pass1-vertex.inc */; };
-		94FEFA5518A80EF30033A762 /* _ntsc-pass2-decode.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94FEFA4E18A80ECD0033A762 /* _ntsc-pass2-decode.inc */; };
-		94FEFA5618A80EF30033A762 /* _ntsc-pass2-vertex.inc in Copy Filters Folder To App Resources */ = {isa = PBXBuildFile; fileRef = 94FEFA4F18A80ECD0033A762 /* _ntsc-pass2-vertex.inc */; };
 		C6096192179B461C00239067 /* OEXPCGameCoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C6096191179B461C00239067 /* OEXPCGameCoreManager.m */; };
 		C609619A179B6E3F00239067 /* OpenEmuXPCHelperApp.m in Sources */ = {isa = PBXBuildFile; fileRef = C6096199179B6E3F00239067 /* OpenEmuXPCHelperApp.m */; };
 		C609619B179B74DE00239067 /* OESystemPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = C6289C31135B215B00EEE97C /* OESystemPlugin.m */; };
@@ -1363,41 +1328,6 @@
 			dstPath = Filters;
 			dstSubfolderSpec = 13;
 			files = (
-				2205C36B196205260013C675 /* _hq2x.cg in Copy Filters Folder To App Resources */,
-				2205C36C196205270013C675 /* _hq2x.png in Copy Filters Folder To App Resources */,
-				2205C36D196205270013C675 /* _hq3x.cg in Copy Filters Folder To App Resources */,
-				2205C36E196205270013C675 /* _hq3x.png in Copy Filters Folder To App Resources */,
-				2205C36F196205270013C675 /* _hq4x.cg in Copy Filters Folder To App Resources */,
-				2205C370196205270013C675 /* _hq4x.png in Copy Filters Folder To App Resources */,
-				2205C371196205270013C675 /* _pass1.cg in Copy Filters Folder To App Resources */,
-				2205C372196205270013C675 /* _pass2.inc in Copy Filters Folder To App Resources */,
-				2205C373196205270013C675 /* HQ2x.cgp in Copy Filters Folder To App Resources */,
-				2205C374196205270013C675 /* HQ3x.cgp in Copy Filters Folder To App Resources */,
-				2205C375196205270013C675 /* HQ4x.cgp in Copy Filters Folder To App Resources */,
-				94FEFA5218A80EF30033A762 /* _ntsc-pass1-composite-3phase.cg in Copy Filters Folder To App Resources */,
-				94FEFA5318A80EF30033A762 /* _ntsc-pass1-encode-demodulate.inc in Copy Filters Folder To App Resources */,
-				94FEFA5418A80EF30033A762 /* _ntsc-pass1-vertex.inc in Copy Filters Folder To App Resources */,
-				94FEFA5518A80EF30033A762 /* _ntsc-pass2-decode.inc in Copy Filters Folder To App Resources */,
-				94FEFA5618A80EF30033A762 /* _ntsc-pass2-vertex.inc in Copy Filters Folder To App Resources */,
-				94539B00187D09B100CD1BA9 /* Pixellate.cg in Copy Filters Folder To App Resources */,
-				8C09E4D81867984B0095DB4E /* Beam4.cgp in Copy Filters Folder To App Resources */,
-				8C09E4D91867984B0095DB4E /* NTSC (Blargg).cgp in Copy Filters Folder To App Resources */,
-				8C09E4DA1867984B0095DB4E /* _beam4_1.cg in Copy Filters Folder To App Resources */,
-				8C09E4DB1867984B0095DB4E /* _beam4_2.cg in Copy Filters Folder To App Resources */,
-				8C09E4DC1867984B0095DB4E /* _beam4_3.cg in Copy Filters Folder To App Resources */,
-				8C09E4DD1867984B0095DB4E /* _stock.cg in Copy Filters Folder To App Resources */,
-				8C09E4E01867984B0095DB4E /* Blinky.cg in Copy Filters Folder To App Resources */,
-				8C09E4E11867984B0095DB4E /* CRT.cg in Copy Filters Folder To App Resources */,
-				8C09E4E21867984B0095DB4E /* LCD3x.cg in Copy Filters Folder To App Resources */,
-				8C09E4E31867984B0095DB4E /* SABR.cg in Copy Filters Folder To App Resources */,
-				8C09E4E41867984B0095DB4E /* Scanline.cg in Copy Filters Folder To App Resources */,
-				94380786184E6BB600E2274B /* _ntsc-decode-filter-3phase.inc in Copy Filters Folder To App Resources */,
-				94380787184E6BB600E2274B /* _ntsc-gauss-pass.cg in Copy Filters Folder To App Resources */,
-				94380788184E6BB600E2274B /* _ntsc-param.inc in Copy Filters Folder To App Resources */,
-				9438078C184E6BB600E2274B /* _ntsc-pass2-3phase.cg in Copy Filters Folder To App Resources */,
-				94380793184E6BB600E2274B /* _ntsc-rgbyuv.inc in Copy Filters Folder To App Resources */,
-				94380794184E6BB600E2274B /* _ntsc-stock.cg in Copy Filters Folder To App Resources */,
-				94380795184E6BB600E2274B /* NTSC.cgp in Copy Filters Folder To App Resources */,
 			);
 			name = "Copy Filters Folder To App Resources";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1580,17 +1510,6 @@
 		1E4B6B4C10DEBB4500B2CD45 /* SUVersionComparisonProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SUVersionComparisonProtocol.h; path = Sparkle.framework/Headers/SUVersionComparisonProtocol.h; sourceTree = "<group>"; };
 		1EA4404711973E9C001D71CA /* OEGameQuickLookDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEGameQuickLookDocument.h; sourceTree = "<group>"; };
 		1EA4404811973E9C001D71CA /* OEGameQuickLookDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OEGameQuickLookDocument.m; sourceTree = "<group>"; };
-		2205C355196204A60013C675 /* _hq2x.cg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _hq2x.cg; sourceTree = "<group>"; };
-		2205C356196204A60013C675 /* _hq2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq2x.png; sourceTree = "<group>"; };
-		2205C357196204A60013C675 /* _hq3x.cg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _hq3x.cg; sourceTree = "<group>"; };
-		2205C358196204A60013C675 /* _hq3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq3x.png; sourceTree = "<group>"; };
-		2205C359196204A60013C675 /* _hq4x.cg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _hq4x.cg; sourceTree = "<group>"; };
-		2205C35A196204A60013C675 /* _hq4x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq4x.png; sourceTree = "<group>"; };
-		2205C35B196204A60013C675 /* _pass1.cg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _pass1.cg; sourceTree = "<group>"; };
-		2205C35C196204A60013C675 /* _pass2.inc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = _pass2.inc; sourceTree = "<group>"; };
-		2205C35D196204A60013C675 /* HQ2x.cgp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HQ2x.cgp; sourceTree = "<group>"; };
-		2205C35E196204A60013C675 /* HQ3x.cgp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HQ3x.cgp; sourceTree = "<group>"; };
-		2205C35F196204A60013C675 /* HQ4x.cgp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HQ4x.cgp; sourceTree = "<group>"; };
 		2205C376196402B50013C675 /* OELUTTexture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OELUTTexture.h; sourceTree = "<group>"; };
 		2205C377196402B50013C675 /* OELUTTexture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OELUTTexture.m; sourceTree = "<group>"; };
 		277CBA4519DE54200059A2C1 /* Intellivision.oesystemplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Intellivision.oesystemplugin; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2213,17 +2132,6 @@
 		87FBC0A11C07985900AECF5A /* Keyboard-Mappings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Keyboard-Mappings.plist"; sourceTree = "<group>"; };
 		87FBC0A31C0798C000AECF5A /* Controller-Preferences.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Controller-Preferences.plist"; sourceTree = "<group>"; };
 		87FBC0A51C07996B00AECF5A /* Controller-Mappings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Controller-Mappings.plist"; sourceTree = "<group>"; };
-		8C09E4BE1867975E0095DB4E /* Beam4.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = Beam4.cgp; sourceTree = "<group>"; };
-		8C09E4BF1867975E0095DB4E /* NTSC (Blargg).cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = "NTSC (Blargg).cgp"; sourceTree = "<group>"; };
-		8C09E4C01867975E0095DB4E /* _beam4_1.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_1.cg; sourceTree = "<group>"; };
-		8C09E4C11867975E0095DB4E /* _beam4_2.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_2.cg; sourceTree = "<group>"; };
-		8C09E4C21867975E0095DB4E /* _beam4_3.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_3.cg; sourceTree = "<group>"; };
-		8C09E4C31867975E0095DB4E /* _stock.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _stock.cg; sourceTree = "<group>"; };
-		8C09E4C61867975E0095DB4E /* Blinky.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Blinky.cg; sourceTree = "<group>"; };
-		8C09E4C71867975E0095DB4E /* CRT.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = CRT.cg; sourceTree = "<group>"; };
-		8C09E4C81867975E0095DB4E /* LCD3x.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = LCD3x.cg; sourceTree = "<group>"; };
-		8C09E4C91867975E0095DB4E /* SABR.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = SABR.cg; sourceTree = "<group>"; };
-		8C09E4CA1867975E0095DB4E /* Scanline.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Scanline.cg; sourceTree = "<group>"; };
 		8C415ECB16B0682B00980DB9 /* OEMultipassShader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEMultipassShader.h; sourceTree = "<group>"; };
 		8C415ECC16B0682B00980DB9 /* OEMultipassShader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OEMultipassShader.m; sourceTree = "<group>"; };
 		8C4C808716986697009B8A28 /* OEGLSLShader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEGLSLShader.h; sourceTree = "<group>"; };
@@ -2340,13 +2248,6 @@
 		941F5A1717A786870005D7EA /* Controller-Preferences.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Controller-Preferences.plist"; sourceTree = "<group>"; };
 		941F5A1817A786870005D7EA /* Keyboard-Mappings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Keyboard-Mappings.plist"; sourceTree = "<group>"; };
 		942388B218922E2E0030A325 /* OEDatabase 1.1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "OEDatabase 1.1.xcdatamodel"; sourceTree = "<group>"; };
-		94380774184E6AE100E2274B /* _ntsc-decode-filter-3phase.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-decode-filter-3phase.inc"; sourceTree = "<group>"; };
-		94380775184E6AE100E2274B /* _ntsc-gauss-pass.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-gauss-pass.cg"; sourceTree = "<group>"; };
-		94380776184E6AE100E2274B /* _ntsc-param.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-param.inc"; sourceTree = "<group>"; };
-		9438077A184E6AE100E2274B /* _ntsc-pass2-3phase.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-pass2-3phase.cg"; sourceTree = "<group>"; };
-		94380781184E6AE100E2274B /* _ntsc-rgbyuv.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-rgbyuv.inc"; sourceTree = "<group>"; };
-		94380782184E6AE100E2274B /* _ntsc-stock.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-stock.cg"; sourceTree = "<group>"; };
-		94380783184E6AE100E2274B /* NTSC.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = NTSC.cgp; sourceTree = "<group>"; };
 		943815B6165771EB00D55731 /* OEGenesisSystemController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEGenesisSystemController.h; sourceTree = "<group>"; };
 		943815B7165771EB00D55731 /* OEGenesisSystemController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OEGenesisSystemController.m; sourceTree = "<group>"; };
 		943819C31658DAE800D55731 /* Controller-Mappings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Controller-Mappings.plist"; sourceTree = "<group>"; };
@@ -2426,7 +2327,6 @@
 		94454ECE17861098006C057B /* psp_library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = psp_library.png; sourceTree = "<group>"; };
 		94525EE017A9A778003CB1A2 /* OESega32XSystemController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OESega32XSystemController.h; sourceTree = "<group>"; };
 		94525EE117A9A778003CB1A2 /* OESega32XSystemController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OESega32XSystemController.m; sourceTree = "<group>"; };
-		94539AFD187D096C00CD1BA9 /* Pixellate.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Pixellate.cg; sourceTree = "<group>"; };
 		945E42FB1517F2B500057D08 /* Arcade.oesystemplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Arcade.oesystemplugin; sourceTree = BUILT_PRODUCTS_DIR; };
 		945E42FF1517F2B500057D08 /* Arcade-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Arcade-Info.plist"; sourceTree = "<group>"; };
 		945E430A1517F59900057D08 /* OEArcadeSystemResponder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEArcadeSystemResponder.h; sourceTree = "<group>"; };
@@ -2662,11 +2562,6 @@
 		94E6C303166DB15900082F27 /* Controller-Mappings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Controller-Mappings.plist"; sourceTree = "<group>"; };
 		94FC53861688FF60003C6AFE /* controller_gamegear_mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = controller_gamegear_mask.png; sourceTree = "<group>"; };
 		94FC53871688FF60003C6AFE /* controller_gamegear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = controller_gamegear.png; sourceTree = "<group>"; };
-		94FEFA4B18A80ECC0033A762 /* _ntsc-pass1-composite-3phase.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-pass1-composite-3phase.cg"; sourceTree = "<group>"; };
-		94FEFA4C18A80ECC0033A762 /* _ntsc-pass1-encode-demodulate.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass1-encode-demodulate.inc"; sourceTree = "<group>"; };
-		94FEFA4D18A80ECC0033A762 /* _ntsc-pass1-vertex.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass1-vertex.inc"; sourceTree = "<group>"; };
-		94FEFA4E18A80ECD0033A762 /* _ntsc-pass2-decode.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass2-decode.inc"; sourceTree = "<group>"; };
-		94FEFA4F18A80ECD0033A762 /* _ntsc-pass2-vertex.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass2-vertex.inc"; sourceTree = "<group>"; };
 		C60238E8179510C600F4AF6C /* OEGameCoreHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OEGameCoreHelper.h; sourceTree = "<group>"; };
 		C609618F179B278C00239067 /* OEXPCGameCoreHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OEXPCGameCoreHelper.h; sourceTree = "<group>"; };
 		C6096190179B461C00239067 /* OEXPCGameCoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEXPCGameCoreManager.h; sourceTree = "<group>"; };
@@ -2822,6 +2717,41 @@
 		F1A2C86D1AAD0B3A00A17C80 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F1A2C86E1AAD0B3B00A17C80 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		F1A2C86F1AAD0B3B00A17C80 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/ControlLabels.strings; sourceTree = "<group>"; };
+		F61A1F702404BD1600886303 /* SABR.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = SABR.cg; sourceTree = "<group>"; };
+		F61A1F712404BD1600886303 /* CRT.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = CRT.cg; sourceTree = "<group>"; };
+		F61A1F722404BD1600886303 /* Scanline.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Scanline.cg; sourceTree = "<group>"; };
+		F61A1F732404BD1600886303 /* LCD3x.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = LCD3x.cg; sourceTree = "<group>"; };
+		F61A1F742404BD1600886303 /* _stock.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _stock.cg; sourceTree = "<group>"; };
+		F61A1F752404BD1600886303 /* _beam4_1.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_1.cg; sourceTree = "<group>"; };
+		F61A1F762404BD1600886303 /* NTSC.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = NTSC.cgp; sourceTree = "<group>"; };
+		F61A1F772404BD1600886303 /* _ntsc-param.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-param.inc"; sourceTree = "<group>"; };
+		F61A1F782404BD1600886303 /* _ntsc-pass1-composite-3phase.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-pass1-composite-3phase.cg"; sourceTree = "<group>"; };
+		F61A1F792404BD1600886303 /* _ntsc-decode-filter-3phase.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-decode-filter-3phase.inc"; sourceTree = "<group>"; };
+		F61A1F7A2404BD1600886303 /* _ntsc-gauss-pass.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-gauss-pass.cg"; sourceTree = "<group>"; };
+		F61A1F7B2404BD1600886303 /* _ntsc-rgbyuv.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-rgbyuv.inc"; sourceTree = "<group>"; };
+		F61A1F7C2404BD1600886303 /* _ntsc-pass1-vertex.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass1-vertex.inc"; sourceTree = "<group>"; };
+		F61A1F7D2404BD1600886303 /* _ntsc-pass2-vertex.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass2-vertex.inc"; sourceTree = "<group>"; };
+		F61A1F7E2404BD1600886303 /* _ntsc-stock.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-stock.cg"; sourceTree = "<group>"; };
+		F61A1F7F2404BD1600886303 /* _ntsc-pass2-decode.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass2-decode.inc"; sourceTree = "<group>"; };
+		F61A1F802404BD1600886303 /* _ntsc-pass2-3phase.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_ntsc-pass2-3phase.cg"; sourceTree = "<group>"; };
+		F61A1F812404BD1600886303 /* _ntsc-pass1-encode-demodulate.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = "_ntsc-pass1-encode-demodulate.inc"; sourceTree = "<group>"; };
+		F61A1F832404BD1600886303 /* NTSC (Blargg).cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = "NTSC (Blargg).cgp"; sourceTree = "<group>"; };
+		F61A1F842404BD1600886303 /* _hq3x.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _hq3x.cg; sourceTree = "<group>"; };
+		F61A1F852404BD1600886303 /* _hq2x.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _hq2x.cg; sourceTree = "<group>"; };
+		F61A1F862404BD1600886303 /* _hq3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq3x.png; sourceTree = "<group>"; };
+		F61A1F872404BD1600886303 /* HQ3x.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = HQ3x.cgp; sourceTree = "<group>"; };
+		F61A1F882404BD1600886303 /* HQ2x.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = HQ2x.cgp; sourceTree = "<group>"; };
+		F61A1F892404BD1600886303 /* _hq2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq2x.png; sourceTree = "<group>"; };
+		F61A1F8A2404BD1600886303 /* _hq4x.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _hq4x.cg; sourceTree = "<group>"; };
+		F61A1F8B2404BD1600886303 /* _pass1.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _pass1.cg; sourceTree = "<group>"; };
+		F61A1F8C2404BD1600886303 /* _pass2.inc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.pascal; path = _pass2.inc; sourceTree = "<group>"; };
+		F61A1F8D2404BD1600886303 /* HQ4x.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = HQ4x.cgp; sourceTree = "<group>"; };
+		F61A1F8E2404BD1600886303 /* _hq4x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _hq4x.png; sourceTree = "<group>"; };
+		F61A1F902404BD1600886303 /* _beam4_3.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_3.cg; sourceTree = "<group>"; };
+		F61A1F912404BD1600886303 /* _beam4_2.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = _beam4_2.cg; sourceTree = "<group>"; };
+		F61A1F922404BD1600886303 /* Blinky.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Blinky.cg; sourceTree = "<group>"; };
+		F61A1F932404BD1600886303 /* Beam4.cgp */ = {isa = PBXFileReference; lastKnownFileType = text; path = Beam4.cgp; sourceTree = "<group>"; };
+		F61A1F942404BD1600886303 /* Pixellate.cg */ = {isa = PBXFileReference; lastKnownFileType = text; path = Pixellate.cg; sourceTree = "<group>"; };
 		FEB66250187B62CA00D14713 /* OEMSXSystemController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEMSXSystemController.h; sourceTree = "<group>"; };
 		FEB66251187B62CA00D14713 /* OEMSXSystemController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OEMSXSystemController.m; sourceTree = "<group>"; };
 		FEB66253187B751700D14713 /* OEMSXSystemResponder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OEMSXSystemResponder.h; sourceTree = "<group>"; };
@@ -3250,7 +3180,6 @@
 		1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				8CCBC0C8169B323100141631 /* Cg.framework */,
 				14A9073916FAA0AE005E2635 /* FeedbackReporter.framework */,
 				8F4BDF7C1CE4AB34007DCB86 /* libsqlite3.tbd */,
 				8F4BDF7A1CE4AB25007DCB86 /* libz.tbd */,
@@ -3507,24 +3436,6 @@
 			name = QuickLook;
 			sourceTree = "<group>";
 		};
-		2205C354196204A60013C675 /* HQx */ = {
-			isa = PBXGroup;
-			children = (
-				2205C355196204A60013C675 /* _hq2x.cg */,
-				2205C356196204A60013C675 /* _hq2x.png */,
-				2205C357196204A60013C675 /* _hq3x.cg */,
-				2205C358196204A60013C675 /* _hq3x.png */,
-				2205C359196204A60013C675 /* _hq4x.cg */,
-				2205C35A196204A60013C675 /* _hq4x.png */,
-				2205C35B196204A60013C675 /* _pass1.cg */,
-				2205C35C196204A60013C675 /* _pass2.inc */,
-				2205C35D196204A60013C675 /* HQ2x.cgp */,
-				2205C35E196204A60013C675 /* HQ3x.cgp */,
-				2205C35F196204A60013C675 /* HQ4x.cgp */,
-			);
-			path = HQx;
-			sourceTree = "<group>";
-		};
 		277CBA2E19DE52640059A2C1 /* Intellivision */ = {
 			isa = PBXGroup;
 			children = (
@@ -3606,6 +3517,7 @@
 		2A37F4B8FDCFA73011CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F61A1F952404BD1600886303 /* Shaders */,
 				87191CC51F6F5524006D2EE3 /* dsa_pub.pem */,
 				8F071F3A1C255362007B76DA /* Credits.rtf */,
 				1B32150F14DDD03200C5B50A /* Setup Assistant Animation Resources */,
@@ -3615,7 +3527,6 @@
 				53439B9D13B93920005C0CC8 /* Interface Graphics */,
 				1BEF34721168F8210090F72B /* XIBs */,
 				1B22426B100D171700F42067 /* CRT Masks */,
-				C344D5F6174C45050011579E /* Shaders */,
 				94AE2C0F17B07D450018DFBB /* cheats-database.xml */,
 				375903750FF82C4000135C45 /* openemuqc_pub.pem */,
 				1B96BA55166BDD52005064C8 /* FRFeedbackReporter.sh */,
@@ -4430,6 +4341,7 @@
 			isa = PBXGroup;
 			children = (
 				1B48F21716671473004E8ABA /* FeedbackReporter.framework */,
+				8CCBC0C8169B323100141631 /* Cg.framework */,
 				83FA054D13B9DF940055A520 /* Sparkle.framework */,
 			);
 			name = "Copied Frameworks";
@@ -4604,25 +4516,6 @@
 				941F5A1717A786870005D7EA /* Controller-Preferences.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		94380773184E6AE100E2274B /* Themaister NTSC */ = {
-			isa = PBXGroup;
-			children = (
-				94380774184E6AE100E2274B /* _ntsc-decode-filter-3phase.inc */,
-				94380775184E6AE100E2274B /* _ntsc-gauss-pass.cg */,
-				94380776184E6AE100E2274B /* _ntsc-param.inc */,
-				94FEFA4B18A80ECC0033A762 /* _ntsc-pass1-composite-3phase.cg */,
-				94FEFA4C18A80ECC0033A762 /* _ntsc-pass1-encode-demodulate.inc */,
-				94FEFA4D18A80ECC0033A762 /* _ntsc-pass1-vertex.inc */,
-				94FEFA4E18A80ECD0033A762 /* _ntsc-pass2-decode.inc */,
-				94FEFA4F18A80ECD0033A762 /* _ntsc-pass2-vertex.inc */,
-				9438077A184E6AE100E2274B /* _ntsc-pass2-3phase.cg */,
-				94380781184E6AE100E2274B /* _ntsc-rgbyuv.inc */,
-				94380782184E6AE100E2274B /* _ntsc-stock.cg */,
-				94380783184E6AE100E2274B /* NTSC.cgp */,
-			);
-			path = "Themaister NTSC";
 			sourceTree = "<group>";
 		};
 		943C80141708A62F00D8D93E /* Jaguar */ = {
@@ -5353,27 +5246,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		C344D5F6174C45050011579E /* Shaders */ = {
-			isa = PBXGroup;
-			children = (
-				2205C354196204A60013C675 /* HQx */,
-				94380773184E6AE100E2274B /* Themaister NTSC */,
-				8C09E4BE1867975E0095DB4E /* Beam4.cgp */,
-				8C09E4BF1867975E0095DB4E /* NTSC (Blargg).cgp */,
-				8C09E4C01867975E0095DB4E /* _beam4_1.cg */,
-				8C09E4C11867975E0095DB4E /* _beam4_2.cg */,
-				8C09E4C21867975E0095DB4E /* _beam4_3.cg */,
-				8C09E4C31867975E0095DB4E /* _stock.cg */,
-				8C09E4C61867975E0095DB4E /* Blinky.cg */,
-				8C09E4C71867975E0095DB4E /* CRT.cg */,
-				8C09E4C81867975E0095DB4E /* LCD3x.cg */,
-				94539AFD187D096C00CD1BA9 /* Pixellate.cg */,
-				8C09E4C91867975E0095DB4E /* SABR.cg */,
-				8C09E4CA1867975E0095DB4E /* Scanline.cg */,
-			);
-			path = Shaders;
-			sourceTree = "<group>";
-		};
 		C60238E7179509CC00F4AF6C /* Game Core Helper Protocols */ = {
 			isa = PBXGroup;
 			children = (
@@ -5715,6 +5587,65 @@
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
+		};
+		F61A1F822404BD1600886303 /* Themaister NTSC */ = {
+			isa = PBXGroup;
+			children = (
+				F61A1F762404BD1600886303 /* NTSC.cgp */,
+				F61A1F772404BD1600886303 /* _ntsc-param.inc */,
+				F61A1F782404BD1600886303 /* _ntsc-pass1-composite-3phase.cg */,
+				F61A1F792404BD1600886303 /* _ntsc-decode-filter-3phase.inc */,
+				F61A1F7A2404BD1600886303 /* _ntsc-gauss-pass.cg */,
+				F61A1F7B2404BD1600886303 /* _ntsc-rgbyuv.inc */,
+				F61A1F7C2404BD1600886303 /* _ntsc-pass1-vertex.inc */,
+				F61A1F7D2404BD1600886303 /* _ntsc-pass2-vertex.inc */,
+				F61A1F7E2404BD1600886303 /* _ntsc-stock.cg */,
+				F61A1F7F2404BD1600886303 /* _ntsc-pass2-decode.inc */,
+				F61A1F802404BD1600886303 /* _ntsc-pass2-3phase.cg */,
+				F61A1F812404BD1600886303 /* _ntsc-pass1-encode-demodulate.inc */,
+			);
+			path = "Themaister NTSC";
+			sourceTree = "<group>";
+		};
+		F61A1F8F2404BD1600886303 /* HQx */ = {
+			isa = PBXGroup;
+			children = (
+				F61A1F842404BD1600886303 /* _hq3x.cg */,
+				F61A1F852404BD1600886303 /* _hq2x.cg */,
+				F61A1F862404BD1600886303 /* _hq3x.png */,
+				F61A1F872404BD1600886303 /* HQ3x.cgp */,
+				F61A1F882404BD1600886303 /* HQ2x.cgp */,
+				F61A1F892404BD1600886303 /* _hq2x.png */,
+				F61A1F8A2404BD1600886303 /* _hq4x.cg */,
+				F61A1F8B2404BD1600886303 /* _pass1.cg */,
+				F61A1F8C2404BD1600886303 /* _pass2.inc */,
+				F61A1F8D2404BD1600886303 /* HQ4x.cgp */,
+				F61A1F8E2404BD1600886303 /* _hq4x.png */,
+			);
+			path = HQx;
+			sourceTree = "<group>";
+		};
+		F61A1F952404BD1600886303 /* Shaders */ = {
+			isa = PBXGroup;
+			children = (
+				F61A1F702404BD1600886303 /* SABR.cg */,
+				F61A1F712404BD1600886303 /* CRT.cg */,
+				F61A1F722404BD1600886303 /* Scanline.cg */,
+				F61A1F732404BD1600886303 /* LCD3x.cg */,
+				F61A1F742404BD1600886303 /* _stock.cg */,
+				F61A1F752404BD1600886303 /* _beam4_1.cg */,
+				F61A1F822404BD1600886303 /* Themaister NTSC */,
+				F61A1F832404BD1600886303 /* NTSC (Blargg).cgp */,
+				F61A1F8F2404BD1600886303 /* HQx */,
+				F61A1F902404BD1600886303 /* _beam4_3.cg */,
+				F61A1F912404BD1600886303 /* _beam4_2.cg */,
+				F61A1F922404BD1600886303 /* Blinky.cg */,
+				F61A1F932404BD1600886303 /* Beam4.cgp */,
+				F61A1F942404BD1600886303 /* Pixellate.cg */,
+			);
+			name = Shaders;
+			path = /Users/atreidesmodi/Developer/OpenEmu/OpenEmu/Shaders;
+			sourceTree = "<absolute>";
 		};
 		FEB6624D187B624E00D14713 /* MSX */ = {
 			isa = PBXGroup;
@@ -6575,6 +6506,7 @@
 					};
 					8D15AC270486D014006FF6A4 = {
 						LastSwiftMigration = 1020;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -10440,8 +10372,12 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_EXPERIMENTAL = YES;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 9.0.9.1;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -10460,12 +10396,15 @@
 				INFOPLIST_FILE = "OpenEmu-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks /Library/Frameworks ~/Library/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MARKETING_VERSION = 9.0.9.1;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					OpenEmuXPCCommunicator,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.openemu.${PRODUCT_NAME:identifier}";
 				PRODUCT_NAME = OpenEmu;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) CG_SUPPORT";
 				SWIFT_OBJC_BRIDGING_HEADER = "OpenEmu-Bridging-Header.h";
@@ -10482,7 +10421,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_EXPERIMENTAL = YES;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 9.0.9.1;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -10501,12 +10444,15 @@
 				INFOPLIST_FILE = "OpenEmu-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks /Library/Frameworks ~/Library/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MARKETING_VERSION = 9.0.9.1;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					OpenEmuXPCCommunicator,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.openemu.${PRODUCT_NAME:identifier}";
 				PRODUCT_NAME = OpenEmu;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) CG_SUPPORT";
 				SWIFT_OBJC_BRIDGING_HEADER = "OpenEmu-Bridging-Header.h";
@@ -10562,8 +10508,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CODE_SIGN_FLAGS = "";
 				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
 				SDKROOT = macosx;
 				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
@@ -10613,7 +10560,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CODE_SIGN_FLAGS = "";
 				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
 				SDKROOT = macosx;
 				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
